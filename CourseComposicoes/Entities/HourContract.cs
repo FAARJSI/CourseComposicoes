@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CourseComposicoes
+namespace CourseComposicoes.Entities
 {
-    class Program
+    class HourContract
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
